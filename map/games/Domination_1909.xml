@@ -2462,19 +2462,19 @@
   </resourceList>
   <playerList>
     <!-- In turn order -->
+	<player name="Americans" optional="false"/>
     <player name="British" optional="false"/>
     <player name="French" optional="false"/>
+	<player name="Italians" optional="false"/>
     <player name="Russians" optional="false"/>
-    <player name="Italians" optional="false"/>
+	<player name="Spanish" optional="false"/>
     <player name="Germans" optional="false"/>
     <player name="Austrians" optional="false"/>
     <player name="Ottomans" optional="false"/>
-    <player name="Americans" optional="false"/>
-    <player name="Portugese" optional="false"/>
-    <player name="Spanish" optional="false"/>
-    <player name="Dutch" optional="false"/>
-    <player name="Japanese" optional="false"/>
+    <player name="Portugese" optional="false"/> 
     <player name="Chinese" optional="false"/>
+	<player name="Dutch" optional="false"/>
+	<player name="Japanese" optional="false"/>
     <alliance player="British" alliance="-Br.It.Sp.Ge.Ch.Du"/>
     <alliance player="French" alliance="-US.Fr.Ru.Au.Ot.Po.Ja"/>
     <alliance player="Russians" alliance="-US.Fr.Ru.Au.Ot.Po.Ja"/>
