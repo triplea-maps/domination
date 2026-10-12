@@ -3,3 +3,4 @@ games:
 - {game_name: Domination, file_name: Domination_1900.xml}
 - {game_name: Domination 1901, file_name: Domination_1901.xml}
 - {game_name: Domination 1902, file_name: Domination_1902.xml}
+- {game_name: Domination 1909, file_name: Domination_1909.xml}
